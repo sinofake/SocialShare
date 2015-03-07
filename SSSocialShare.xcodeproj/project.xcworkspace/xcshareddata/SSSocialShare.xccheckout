@@ -10,31 +10,31 @@
 	<string>SSSocialShare</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>E11EC9A3F2C112775E6A4BE77D4B8A2207A6AA23</key>
-		<string>https://github.com/sinofake/DoubanMusic.git</string>
+		<key>FFBC46AE82B528522DE635C22F04BFA4ACA1A6B5</key>
+		<string>https://github.com/sinofake/SSSocialShare.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>SSSocialShare/SSSocialShare.xcodeproj</string>
+	<string>SSSocialShare.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>E11EC9A3F2C112775E6A4BE77D4B8A2207A6AA23</key>
-		<string>../../..</string>
+		<key>FFBC46AE82B528522DE635C22F04BFA4ACA1A6B5</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/sinofake/DoubanMusic.git</string>
+	<string>https://github.com/sinofake/SSSocialShare.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>E11EC9A3F2C112775E6A4BE77D4B8A2207A6AA23</string>
+	<string>FFBC46AE82B528522DE635C22F04BFA4ACA1A6B5</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>E11EC9A3F2C112775E6A4BE77D4B8A2207A6AA23</string>
+			<string>FFBC46AE82B528522DE635C22F04BFA4ACA1A6B5</string>
 			<key>IDESourceControlWCCName</key>
-			<string>myGithub</string>
+			<string>SSSocialShare</string>
 		</dict>
 	</array>
 </dict>
